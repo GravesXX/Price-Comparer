@@ -1,4 +1,1032 @@
 {
+  "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N": {
+    "productInfo": {
+      "name": "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N",
+          "price": 358.0,
+          "url": "https://www.amazon.ca/Hisense-50A68N-Vision-Google-Bluetooth/dp/B0CW2JZ4L9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.V526DVeKjVAGgQPJROn2dzfY0161r4Fbg5HXi_cllY9BPeIc32hsTJ39WtpqGGv6.IYdsSaj3NzMr1RMSvHLgLMXhO3enitpfg-8LmqpODcI&dib_tag=se&keywords=50A68N&qid=1748317944&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": true,
+        "result": {
+          "name": "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N",
+          "price": 379.99,
+          "url": "https://dufresne.ca/products/hisense-50-4k-uhd-smart-1080p-50a68n-black?variant=40707224272971&queryID=b581a4b466af0fa7ad0e4febc4736ad6&objectID=40707224272971",
+          "price_validity": ""
+        }
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N",
+          "price": 359.99,
+          "url": "https://www.teppermans.com/hisense-50-4k-ai-upscaler-uhd-smart-google-gaming-tv-50a68n",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Hisense 50\" 4K Smart Google AI Upscaler LED TV - 50A68N",
+          "price": 373.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T4654/46---54-inch-tvs/0849464/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": true,
+        "result": {
+          "name": "Hisense 50\" 2024 A68N 4K UHD HDR10 Smart Google TV (50A68N)",
+          "price": 358.0,
+          "url": "https://www.visions.ca/catalogsearch/result?q=50A68N",
+          "price_validity": ""
+        }
+      }
+    },
+    "best_price": {
+      "retailer": "Amazon",
+      "price": 358.0,
+      "url": "https://www.amazon.ca/Hisense-50A68N-Vision-Google-Bluetooth/dp/B0CW2JZ4L9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.V526DVeKjVAGgQPJROn2dzfY0161r4Fbg5HXi_cllY9BPeIc32hsTJ39WtpqGGv6.IYdsSaj3NzMr1RMSvHLgLMXhO3enitpfg-8LmqpODcI&dib_tag=se&keywords=50A68N&qid=1748317944&sr=8-1&th=1"
+    }
+  },
+  "Hisense 55\" 4K Smart Google AI Upscaler LED TV - 55A68N": {
+    "productInfo": {
+      "name": "Hisense 55\" 4K Smart Google AI Upscaler LED TV - 55A68N",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": true,
+        "result": {
+          "name": "Hisense 55\" 4K Smart Google AI Upscaler LED TV - 55A68N",
+          "price": 569.99,
+          "url": "https://dufresne.ca/products/hisense-55-4k-uhd-smart-1080p-55a68n-black?variant=40707224961099&queryID=7a8956137a3461f2048bad74e426dacc&objectID=40707224961099",
+          "price_validity": ""
+        }
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Hisense 55\" 4K Smart Google AI Upscaler LED TV - 55A68N",
+          "price": 379.99,
+          "url": "https://www.teppermans.com/hisense-55-4k-ai-upscaler-uhd-smart-google-gaming-tv-55a68n",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Hisense 55\" 4K Smart Google AI Upscaler LED TV - 55A68N",
+          "price": 393.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T5559/55---59-inch-tvs/0849465/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": true,
+        "result": {
+          "name": "Hisense 55\" 2024 A68N 4K UHD HDR10 Smart Google TV (55A68N)",
+          "price": 378.0,
+          "url": "https://www.visions.ca/catalogsearch/result?q=55A68N",
+          "price_validity": ""
+        }
+      }
+    },
+    "best_price": {
+      "retailer": "Vision",
+      "price": 378.0,
+      "url": "https://www.visions.ca/catalogsearch/result?q=55A68N"
+    }
+  },
+  "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU7100FXZC": {
+    "productInfo": {
+      "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU7100FXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU7100FXZC",
+          "price": 1299.99,
+          "url": "https://www.amazon.ca/SAMSUNG-Processor-Tracking-Q-Symphony-Upscaling/dp/B0CY1653Y1/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.KTXp7d3ELTt8vY5shnoy2YRslNJ4D9eIA30kcokmJplW3UoL5-fd5vfQpN7-sPmD4AYPKThffJu0LhrBgBVad3fklHJlEQImpjh_9Nn_Kc4.tlUyPRTfqFyo0vKenrM_nRXEuQ9mwtr0zGUAcu4ZrSw&dib_tag=se&keywords=UN75DU7100FXZC&qid=1748318205&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU7100FXZC",
+          "price": 912.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T7079/70---79-inch-tvs/0848943_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 912.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T7079/70---79-inch-tvs/0848943_DEMO/"
+    }
+  },
+  "LG 50\" UHD 4K Smart LED TV - 50UT7570PUB": {
+    "productInfo": {
+      "name": "LG 50\" UHD 4K Smart LED TV - 50UT7570PUB",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "LG 50\" UHD 4K Smart LED TV - 50UT7570PUB",
+          "price": 499.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/lg-50-4k-uhd-hdr-led-webos-ai-thinq-smart-tv-50ut7570pub-2024/17924086",
+          "price_validity": null
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "LG 50\" UHD 4K Smart LED TV - 50UT7570PUB",
+          "price": 499.99,
+          "url": "https://www.teppermans.com/lg-50-4k-uhd-smart-led-webos24-intelligent-processor-50ut7570pub",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": false,
+        "result": {}
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": true,
+        "result": {
+          "name": "LG 2024 50\" 4K A5, 60Hz Web Os UT7570 Smart TV (50UT7570PUB)",
+          "price": 498.0,
+          "url": "https://www.visions.ca/catalogsearch/result?q=50UT7570PUB",
+          "price_validity": ""
+        }
+      }
+    },
+    "best_price": {
+      "retailer": "Vision",
+      "price": 498.0,
+      "url": "https://www.visions.ca/catalogsearch/result?q=50UT7570PUB"
+    }
+  },
+  "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q60DAFXZC": {
+    "productInfo": {
+      "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q60DAFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q60DAFXZC",
+          "price": 1098.0,
+          "url": "https://www.amazon.ca/SAMSUNG-65-Inch-Quantum-Q-Symphony-Xcelerator/dp/B0CXR45YRM/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.liVobHWB2GAGOIlPyPSO9ovyJ26XBS0w-c6561TzG6JuS-c7FrmjxYKZZVmVcfQxz9cZ2musOjN9TSX-xVMGNAkjVd7oLrPtZ8cGtznYyy2wpkAQ_q14N6y-0qhCYtwf6eXQxotGj3ppsaFFGpDvQpr7PUbMirgec1tXdBcKSvF0Q-1bLL0tWtPMnkI3CcX6jRCVn1nmAfgcBPm4txMD5viaMJpT_bmPZEa7ZIzkzx8iJP0_FCl-d0WrafJMRNVDaSBoYgX8iAt-jhYLj4xyHm5_IQ6LOhr94WO013OclwY.YjaHCm8PvfDJXUBq4ZspdyciIIOS3-w9CxS3FrE2mAU&dib_tag=se&keywords=QN65Q60DAFXZC&qid=1748318411&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": false,
+        "result": {}
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Amazon",
+      "price": 1098.0,
+      "url": "https://www.amazon.ca/SAMSUNG-65-Inch-Quantum-Q-Symphony-Xcelerator/dp/B0CXR45YRM/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.liVobHWB2GAGOIlPyPSO9ovyJ26XBS0w-c6561TzG6JuS-c7FrmjxYKZZVmVcfQxz9cZ2musOjN9TSX-xVMGNAkjVd7oLrPtZ8cGtznYyy2wpkAQ_q14N6y-0qhCYtwf6eXQxotGj3ppsaFFGpDvQpr7PUbMirgec1tXdBcKSvF0Q-1bLL0tWtPMnkI3CcX6jRCVn1nmAfgcBPm4txMD5viaMJpT_bmPZEa7ZIzkzx8iJP0_FCl-d0WrafJMRNVDaSBoYgX8iAt-jhYLj4xyHm5_IQ6LOhr94WO013OclwY.YjaHCm8PvfDJXUBq4ZspdyciIIOS3-w9CxS3FrE2mAU&dib_tag=se&keywords=QN65Q60DAFXZC&qid=1748318411&sr=8-1&th=1"
+    }
+  },
+  "Hisense 32\" HD Smart VIDAA LED TV - 32A4KV": {
+    "productInfo": {
+      "name": "Hisense 32\" HD Smart VIDAA LED TV - 32A4KV",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "Hisense 32\" HD Smart VIDAA LED TV - 32A4KV",
+          "price": 176.98,
+          "url": "https://www.bestbuy.ca/en-ca/product/hisense-a4kv-32-720p-hd-led-vidaa-smart-tv-32a4kv-2023/16932600",
+          "price_validity": null
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Hisense 32\" HD Smart VIDAA LED TV - 32A4KV",
+          "price": 185.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T3039/30---39-inch-tvs/0822978/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": true,
+        "result": {
+          "name": "Hisense (2023) 32\" HD VIDAA Smart LCD TV (32A4KV)",
+          "price": 88.0,
+          "url": "https://www.visions.ca/catalogsearch/result?q=32A4KV",
+          "price_validity": ""
+        }
+      }
+    },
+    "best_price": {
+      "retailer": "Vision",
+      "price": 88.0,
+      "url": "https://www.visions.ca/catalogsearch/result?q=32A4KV"
+    }
+  },
+  "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC": {
+    "productInfo": {
+      "name": "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC",
+          "price": 447.98,
+          "url": "https://www.amazon.ca/SAMSUNG-Processor-Tracking-Q-Symphony-Upscaling/dp/B0CY18SS15/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9._UZ2eX6h7SapMvFr2woWDWgm2L81naG6ixvc1mKTFLMNXbvtO5R_o6xyNT7bohOPDMdcq91snu5jCkeFpcrqxQp6QwuM5oNzrj1YzCeuKmCnx_gqV8rHM__Url17WRq1NhmIwI0KXKYrwniRaKBlTlsJ5wCU9qzAIiI6onARhwQ.L0Ts-bQzGsOQqFs5ziRhhsY7oBBAwWT-A5OcQj_tmrw&dib_tag=se&keywords=UN43DU7100FXZC&qid=1748318604&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC",
+          "price": 449.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/samsung-43-4k-uhd-hdr-led-tizen-os-smart-tv-un43du7100fxzc-2024/17856728",
+          "price_validity": null
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC",
+          "price": 448.0,
+          "url": "https://www.teppermans.com/samsung-43-4k-crystal-uhd-led-hdr-pur-color-smart-tv-un43du7100fxzc",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 43\u201d 4K Tizen Smart CUHD TV-UN43DU7100FXZC",
+          "price": 384.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T4045/40---45-inch-tvs/0848948_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 384.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T4045/40---45-inch-tvs/0848948_DEMO/"
+    }
+  },
+  "LG 65\" UHD 4K Smart LED TV - 65UT7570PUB": {
+    "productInfo": {
+      "name": "LG 65\" UHD 4K Smart LED TV - 65UT7570PUB",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" UHD 4K Smart LED TV - 65UT7570PUB",
+          "price": 699.99,
+          "url": "https://www.amazon.ca/LG-65-Inch-UT7570-Smart-65UT7570PUB/dp/B0D3WY246V/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.wNGswCOOFQbrwKuurYuLOgZyRyJeQsiZBlToB2-NPkQTCBzgSc0BqnLoWX0yrgMwephsfS3lfZ64IssVrNVsSXk10FpOsO6dvRPxd9NJ_ZmVpQcZF3K3NsrCNhODCcUvUCb9q4Sd13-7AokfoPFla6KEhsmhR0fpiGiA7x5GbjwOM1unygYNSLq5O_Zf9Jhx.Fp9OSxJiabAmuz62sFdFSR5V8sHobxhpSh95C_qoCuI&dib_tag=se&keywords=65UT7570PUB&qid=1748318732&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" UHD 4K Smart LED TV - 65UT7570PUB",
+          "price": 497.99,
+          "url": "https://www.costco.ca/lg-50-class---ut7000-series---4k-uhd-led-lcd-tv.product.4000300226.html",
+          "price_validity": ""
+        }
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" UHD 4K Smart LED TV - 65UT7570PUB",
+          "price": 699.99,
+          "url": "https://www.teppermans.com/lg-65-4k-uhd-smart-led-webos24-intelligent-processor-65ut7570pub",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": false,
+        "result": {}
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": true,
+        "result": {
+          "name": "LG 2024 65\" 4K A5, 60Hz Web Os UT7570 Smart TV (65UT7570PUB)",
+          "price": 698.0,
+          "url": "https://www.visions.ca/catalogsearch/result?q=65UT7570PUB",
+          "price_validity": ""
+        }
+      }
+    },
+    "best_price": {
+      "retailer": "Costco",
+      "price": 497.99,
+      "url": "https://www.costco.ca/lg-50-class---ut7000-series---4k-uhd-led-lcd-tv.product.4000300226.html"
+    }
+  },
+  "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q60DAFXZC": {
+    "productInfo": {
+      "name": "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q60DAFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q60DAFXZC",
+          "price": 1413.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T7079/70---79-inch-tvs/0848962/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 1413.74,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T7079/70---79-inch-tvs/0848962/"
+    }
+  },
+  "Samsung 65\u201d Neo QLED 4K Tizen Smart TV QN85D - QN65QN85DBFXZC": {
+    "productInfo": {
+      "name": "Samsung 65\u201d Neo QLED 4K Tizen Smart TV QN85D - QN65QN85DBFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d Neo QLED 4K Tizen Smart TV QN85D - QN65QN85DBFXZC",
+          "price": 1496.98,
+          "url": "https://www.bestbuy.ca/en-ca/product/samsung-65-4k-uhd-hdr-neo-qled-tizen-smart-tv-qn65qn85dbfxzc-2024-graphite-black/17729482",
+          "price_validity": "May 29, 2025"
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d Neo QLED 4K Tizen Smart TV QN85D - QN65QN85DBFXZC",
+          "price": 1999.99,
+          "url": "https://www.teppermans.com/samsung-65-4k-neo-qled-120-hz-full-array-smart-tv-qn65qn85dbfxzc",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d Neo QLED 4K Tizen Smart TV QN85D - QN65QN85DBFXZC",
+          "price": 1312.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0847100_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 1312.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0847100_DEMO/"
+    }
+  },
+  "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA": {
+    "productInfo": {
+      "name": "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA",
+          "price": 1797.99,
+          "url": "https://www.amazon.ca/LG-65-Inch-OLED-Smart-Built/dp/B0D3WV1CM9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9._zsrzoONJl8hzFZtDwT3Ow2VGbD9sWGyAhkDW830ynuK4m3EvX6U68Mr77Sh1U7YlZ2GMXXgpaCeAPUdh2pqnr4ISVRphJiTQyUAx7LljwY3SP0EsTSXRDXXZf_3-6xKftyC0dCsp6R-uhMc4T5jMOwvoIvRPpNTBRwH0YbdKn7FUvdhGGHz18JnNKVDENXizNX_R22qFXwzaYn3wGa4eRMQFiz-u7QgFcu7svvDQjNWQ73uYfNLndvkXjqy6lR8O84d6_RsQ6LkW6K0f1y0hCrAlGhjmibdDkP5A0yJeYw.Qy2RL4fjVS7a0JNrIph5gv5p7_XCImlZ8B8pqByymGo&dib_tag=se&keywords=OLED65C4PUA&qid=1748319078&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA",
+          "price": 1996.98,
+          "url": "https://www.bestbuy.ca/en-ca/product/lg-c4-65-4k-uhd-hdr-oled-evo-webos-smart-tv-oled65c4pua-2024/17921979",
+          "price_validity": "May 29, 2025"
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA",
+          "price": 1999.99,
+          "url": "https://www.lg.com/ca_en/tv-soundbars/oled/oled65c4pua/",
+          "price_validity": ""
+        }
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "LG 65\" 4K Smart evo C4 OLED TV - OLED65C4PUA",
+          "price": 2013.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0852510/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Amazon",
+      "price": 1797.99,
+      "url": "https://www.amazon.ca/LG-65-Inch-OLED-Smart-Built/dp/B0D3WV1CM9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9._zsrzoONJl8hzFZtDwT3Ow2VGbD9sWGyAhkDW830ynuK4m3EvX6U68Mr77Sh1U7YlZ2GMXXgpaCeAPUdh2pqnr4ISVRphJiTQyUAx7LljwY3SP0EsTSXRDXXZf_3-6xKftyC0dCsp6R-uhMc4T5jMOwvoIvRPpNTBRwH0YbdKn7FUvdhGGHz18JnNKVDENXizNX_R22qFXwzaYn3wGa4eRMQFiz-u7QgFcu7svvDQjNWQ73uYfNLndvkXjqy6lR8O84d6_RsQ6LkW6K0f1y0hCrAlGhjmibdDkP5A0yJeYw.Qy2RL4fjVS7a0JNrIph5gv5p7_XCImlZ8B8pqByymGo&dib_tag=se&keywords=OLED65C4PUA&qid=1748319078&sr=8-1&th=1"
+    }
+  },
+  "LG 86\" UHD 4K Smart LED TV - 86UT7590PUA": {
+    "productInfo": {
+      "name": "LG 86\" UHD 4K Smart LED TV - 86UT7590PUA",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "LG 86\" UHD 4K Smart LED TV - 86UT7590PUA",
+          "price": 1399.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/lg-86-4k-uhd-hdr-led-webos-ai-thinq-smart-tv-86ut7590pua-2024/17924093",
+          "price_validity": "May 29, 2025"
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "LG 86\" UHD 4K Smart LED TV - 86UT7590PUA",
+          "price": 1399.99,
+          "url": "https://www.teppermans.com/lg-86-4k-uhd-smart-led-webos24-intelligent-processor-86ut7590pua",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "LG 86\" UHD 4K Smart LED TV - 86UT7590PUA",
+          "price": 1212.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T80UP/80-inch-and-larger-tvs/0852503_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 1212.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T80UP/80-inch-and-larger-tvs/0852503_DEMO/"
+    }
+  },
+  "SONY 75\" X77L 4K HDR LED TV Google TV - KD75X77L": {
+    "productInfo": {
+      "name": "SONY 75\" X77L 4K HDR LED TV Google TV - KD75X77L",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "SONY 75\" X77L 4K HDR LED TV Google TV - KD75X77L",
+          "price": 1198.0,
+          "url": "https://www.amazon.ca/Sony-Assistant-Exclusive-Playstation-KD75X77L/dp/B0BZF5B6SK/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.qzr4yr20AwkzpnovXL5SJTeme5JSQFHhecqctyFoPjsTnQa-vDZQUx6EjUtO-0Hl7Du7dFH5R5BTUX5WK2WOjMyGVTJWNTEW2NVRHg3yAdj9NhfsaWXX4WiFYoWymfA1IchLUGUPmkY1kbw6rVjwKjqru6JzO3On9DfyIDI_HOw.h3dvlnVO5M4iL7Avq95PWQcXMHvcvwZLNLPbrtCi5zc&dib_tag=se&keywords=KD75X77L&qid=1748319321&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "SONY 75\" X77L 4K HDR LED TV Google TV - KD75X77L",
+          "price": 1199.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/sony-75-4k-uhd-hdr-led-smart-google-tv-kd75x77l/17080859",
+          "price_validity": "May 29, 2025"
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": false,
+        "result": {}
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Amazon",
+      "price": 1198.0,
+      "url": "https://www.amazon.ca/Sony-Assistant-Exclusive-Playstation-KD75X77L/dp/B0BZF5B6SK/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.qzr4yr20AwkzpnovXL5SJTeme5JSQFHhecqctyFoPjsTnQa-vDZQUx6EjUtO-0Hl7Du7dFH5R5BTUX5WK2WOjMyGVTJWNTEW2NVRHg3yAdj9NhfsaWXX4WiFYoWymfA1IchLUGUPmkY1kbw6rVjwKjqru6JzO3On9DfyIDI_HOw.h3dvlnVO5M4iL7Avq95PWQcXMHvcvwZLNLPbrtCi5zc&dib_tag=se&keywords=KD75X77L&qid=1748319321&sr=8-1&th=1"
+    }
+  },
+  "LG 55\" QNED80 4K Smart QLED TV - 55QNED80TUC": {
+    "productInfo": {
+      "name": "LG 55\" QNED80 4K Smart QLED TV - 55QNED80TUC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "LG 55\" QNED80 4K Smart QLED TV - 55QNED80TUC",
+          "price": 749.99,
+          "url": "https://www.amazon.ca/LG-55-Inch-QNED80-NanoCell-Quantum/dp/B0D3WL9QS3/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.KZDlOzxAe4CrcrK6YEn0REKvk0cDNNlFidIYwYPLn946WtFxwDb00Ywfsi6zJWG0pkXNvwtvQevr7_myRPESIw.IqSTX7nNsmCQ1m25iMEwUqKYrVENvOB7Dhn-hSUsKio&dib_tag=se&keywords=55QNED80TUC&qid=1748319413&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "LG 55\" QNED80 4K Smart QLED TV - 55QNED80TUC",
+          "price": 749.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/lg-55-4k-uhd-hdr-qned-webos-smart-tv-55qned80tuc-2024/17924079",
+          "price_validity": "May 29, 2025"
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "LG 55\" QNED80 4K Smart QLED TV - 55QNED80TUC",
+          "price": 612.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T5559/55---59-inch-tvs/0852665_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
+      "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": "Tanguay",
+      "price": 612.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T5559/55---59-inch-tvs/0852665_DEMO/"
+    }
+  },
   "Samsung 65\u201d OLED 4K Tizen Smart TV S90D - QN65S90DAFXZC": {
     "productInfo": {
       "name": "Samsung 65\u201d OLED 4K Tizen Smart TV S90D - QN65S90DAFXZC",
@@ -6,15 +1034,60 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": false,
+        "result": {}
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d OLED 4K Tizen Smart TV S90D - QN65S90DAFXZC",
+          "price": 1612.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0847102_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
       "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
         "found": false,
         "result": {}
       }
     },
     "best_price": {
-      "retailer": null,
-      "price": null,
-      "url": null
+      "retailer": "Tanguay",
+      "price": 1612.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0847102_DEMO/"
     }
   },
   "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q80DAFXZC": {
@@ -24,15 +1097,60 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q80DAFXZC",
+          "price": 1998.0,
+          "url": "https://www.amazon.ca/SAMSUNG-75-Inch-Quantum-Tracking-Q-Symphony/dp/B0CXZPHB58/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UUF8-ZgXTXuvn_uOIx3Bk9jxThaRhtK_hbbuEByBJTnLVK8w1bvoy6nAEC6105HmDZWvucrw-ArT-2OBPGlLjfDlbfC22j1jTxaYrtESpAr1EynNMI232gD6NdRaVJ5nHXQhrzrLdv3N8es-ExkDcGgUexlO_GnxZuBAhqkYURxtXSwTkQcgi79tJJfBCsk2.6tuW1wae7EqVbK5Wj7jGdhZHbs2hhXE3BBswnGP0qVQ&dib_tag=se&keywords=QN75Q80DAFXZC&qid=1748319630&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": false,
+        "result": {}
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
       "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
         "found": false,
         "result": {}
       }
     },
     "best_price": {
-      "retailer": null,
-      "price": null,
-      "url": null
+      "retailer": "Amazon",
+      "price": 1998.0,
+      "url": "https://www.amazon.ca/SAMSUNG-75-Inch-Quantum-Tracking-Q-Symphony/dp/B0CXZPHB58/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.UUF8-ZgXTXuvn_uOIx3Bk9jxThaRhtK_hbbuEByBJTnLVK8w1bvoy6nAEC6105HmDZWvucrw-ArT-2OBPGlLjfDlbfC22j1jTxaYrtESpAr1EynNMI232gD6NdRaVJ5nHXQhrzrLdv3N8es-ExkDcGgUexlO_GnxZuBAhqkYURxtXSwTkQcgi79tJJfBCsk2.6tuW1wae7EqVbK5Wj7jGdhZHbs2hhXE3BBswnGP0qVQ&dib_tag=se&keywords=QN75Q80DAFXZC&qid=1748319630&sr=8-1&th=1"
     }
   },
   "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC": {
@@ -42,15 +1160,75 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC",
+          "price": 1496.98,
+          "url": "https://www.amazon.ca/SAMSUNG-65-Inch-Quantum-Tracking-Q-Symphony/dp/B0CXZZN3VY/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.w2N8wy0flgd5pFvONNyrZOAi82-djEglkzbASiJGqrpd8vMMNPjNwJ4LuXNMykgmlmK2PurxCPPWqMiSirZqOu0YWxOF8IpMgej-cLUJVC0hXyf1rbtAoWmbv1N8hITQDlCT0ZXVtnZCkRmQvlc2kg.qyYAKrGbf2g6AJKL2noPHjdAG2c2o2sIk1HSsscV0YY&dib_tag=se&keywords=QN65Q80DAFXZC&qid=1748319732&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC",
+          "price": 1499.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/samsung-65-4k-uhd-hdr-qled-tizen-os-smart-tv-qn65q80dafxzc-2024/17857407",
+          "price_validity": null
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC",
+          "price": 1499.99,
+          "url": "https://www.teppermans.com/samsung-65-4k-qled-hdr-120-hz-full-array-smart-tv-qn65q80dafxzc",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC",
+          "price": 1513.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0848958/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
       "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
         "found": false,
         "result": {}
       }
     },
     "best_price": {
-      "retailer": null,
-      "price": null,
-      "url": null
+      "retailer": "Amazon",
+      "price": 1496.98,
+      "url": "https://www.amazon.ca/SAMSUNG-65-Inch-Quantum-Tracking-Q-Symphony/dp/B0CXZZN3VY/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.w2N8wy0flgd5pFvONNyrZOAi82-djEglkzbASiJGqrpd8vMMNPjNwJ4LuXNMykgmlmK2PurxCPPWqMiSirZqOu0YWxOF8IpMgej-cLUJVC0hXyf1rbtAoWmbv1N8hITQDlCT0ZXVtnZCkRmQvlc2kg.qyYAKrGbf2g6AJKL2noPHjdAG2c2o2sIk1HSsscV0YY&dib_tag=se&keywords=QN65Q80DAFXZC&qid=1748319732&sr=8-1&th=1"
     }
   },
   "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC": {
@@ -60,15 +1238,76 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC",
+          "price": 799.99,
+          "url": "https://www.amazon.ca/SAMSUNG-Processor-Tracking-Q-Symphony-Upscaling/dp/B0CY1F4YZ3/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.DKIsD3qkqRorwFXYu_5kALvfTpkXiT2D1OiyqG3h7DiYqL2szM2TNUKOlVDdKcrBeYht_ciGFmpzpEMp-L7MbuynbdyqJL4UL0IS46VidHIX7USM1lynSQ2l2AVyctIdpcAiiZ7aT-DyB02dRIdggrLBmYdEO4LPE3eg-pRSi2OdyLiGjm4HGW5Y1QbdWqCR.qpdW4rdrzYA1ApIxbiWlkCInntoBWSnfsNttwJeCpl8&dib_tag=se&keywords=UN65DU7100FXZC&qid=1748319835&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC",
+          "price": 799.99,
+          "url": "https://www.bestbuy.ca/en-ca/product/samsung-65-4k-uhd-hdr-led-tizen-os-smart-tv-un65du7100fxzc-2024/17856735",
+          "price_validity": null
+        }
+      },
+      "Costco": {
+        "found": false,
+        "result": {}
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC",
+          "price": 798.0,
+          "url": "https://www.teppermans.com/samsung-65-4k-crystal-uhd-led-hdr-pur-color-smart-tv-un65du7100fxzc",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC",
+          "price": 712.75,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0848945_DEMO/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
       "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
         "found": false,
         "result": {}
       }
     },
     "best_price": {
-      "retailer": null,
-      "price": null,
-      "url": null
+      "retailer": "Tanguay",
+      "price": 712.75,
+      "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T6069/60---69-inch-tvs/0848945_DEMO/"
     }
   },
   "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC": {
@@ -78,15 +1317,71 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC",
+          "price": 899.0,
+          "url": "https://www.amazon.ca/Samsung-75-Inch-Processor-Tracking-Q-Symphony/dp/B0DZ82N1G2/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.lwo7hBwJlitjdl_1PlfyyizCxp5qQfF99RNyllR12-opikJPiZLGqQ5c3tbe5vzBOnRjQhsrK6S-qmTwOt2GM7w7r26-kr8ZsZxv76lkbyQ.KDnfPptjjRxQzcu2zBNhChOwksDMZ4pOVU2RD6AzLUE&dib_tag=se&keywords=UN75DU8000FXZC&qid=1748319938&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC",
+          "price": 269.99,
+          "url": "https://www.costco.ca/kairos-riverstone-collection-kuba-delight-cloud-indoor-area-rug.product.4000222485.html",
+          "price_validity": ""
+        }
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": false,
+        "result": {}
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC",
+          "price": 1513.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T7079/70---79-inch-tvs/0848954/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {},
+        "error": "Page.wait_for_timeout: Target page, context or browser has been closed"
+      },
       "Samsung": {
+        "found": false,
+        "result": {}
+      },
+      "Vision": {
         "found": false,
         "result": {}
       }
     },
     "best_price": {
-      "retailer": null,
-      "price": null,
-      "url": null
+      "retailer": "Costco",
+      "price": 269.99,
+      "url": "https://www.costco.ca/kairos-riverstone-collection-kuba-delight-cloud-indoor-area-rug.product.4000222485.html"
     }
   },
   "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC": {
@@ -96,6 +1391,62 @@
       "url": ""
     },
     "results": {
+      "Amazon": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
+          "price": 1599.99,
+          "url": "https://www.amazon.ca/SAMSUNG-43-Inch-Processor-Quantum-Q-Symphony/dp/B0DX43KQNG/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.lynXEZS7i77CT3Ft6rNDmtt-GvZpPUfVAekBy5wSUnQoAHr-VtbK9IhR3Q1RlessXNsPTPCAJzo0kaqdOqeKVxjCBnm5-pdcUTHl7QUqWr2qJ50rtobQF5CKDOnjrp6Q9n2EV8ZeDYpmwEOVBJDAD_p5nD0b-E57qb8zCsS8SYEeNlXIiPieUENqZrlnUB2uYmh0CdV1GNUIQUyanQmaHF0_M7l7aTQsrTeDA0zuw6xEfgo9v5oi-Yg8HiLRLVr4.QbcJf1hQQMxYDgyZCyguiHjvr6HFHP4uTm706M9iAN4&dib_tag=se&keywords=QN90F&qid=1748320038&sr=8-1&th=1",
+          "price_validity": ""
+        }
+      },
+      "Best_Buy": {
+        "found": false,
+        "result": {}
+      },
+      "Costco": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
+          "price": 3998.00,
+          "url": "https://www.costco.ca/s?dept=All&keyword=Samsung+75%22%22+Class+-+QN90F+Series+4K+UHD+NEO+QLED+Mini+LED+TV+-+QN75QN90FAFXZC",
+          "price_validity": ""
+        }
+      },
+      "Dufresne": {
+        "found": false,
+        "result": {}
+      },
+      "LG": {
+        "found": false,
+        "result": {}
+      },
+      "LondonDrugs": {
+        "found": false,
+        "result": {}
+      },
+      "Terpermans": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
+          "price": 2999.95,
+          "url": "https://www.teppermans.com/samsung-65-inch-neo-qled-4k-qn90f-vision-ai-smart-tv-2025-qn65qn90fafxzc",
+          "price_validity": ""
+        }
+      },
+      "Tanguay": {
+        "found": true,
+        "result": {
+          "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
+          "price": 5513.74,
+          "url": "https://www.tanguay.ca/en/prod2/28/electronics/R/tv-&-home-theatre/TELE/televisions/T80UP/80-inch-and-larger-tvs/1009405/",
+          "price_validity": ""
+        }
+      },
+      "Staples": {
+        "found": false,
+        "result": {}
+      },
       "Samsung": {
         "found": true,
         "result": {
@@ -104,12 +1455,16 @@
           "url": "https://www.samsung.com/ca/tvs/qled-tv/qn90f-75-inch-neo-qled-4k-vision-ai-smart-tv-qn75qn90fafxzc/",
           "price_validity": ""
         }
+      },
+      "Vision": {
+        "found": false,
+        "result": {}
       }
     },
     "best_price": {
-      "retailer": "Samsung",
-      "price": 3999.99,
-      "url": "https://www.samsung.com/ca/tvs/qled-tv/qn90f-75-inch-neo-qled-4k-vision-ai-smart-tv-qn75qn90fafxzc/"
+      "retailer": "Amazon",
+      "price": 1599.99,
+      "url": "https://www.amazon.ca/SAMSUNG-43-Inch-Processor-Quantum-Q-Symphony/dp/B0DX43KQNG/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.lynXEZS7i77CT3Ft6rNDmtt-GvZpPUfVAekBy5wSUnQoAHr-VtbK9IhR3Q1RlessXNsPTPCAJzo0kaqdOqeKVxjCBnm5-pdcUTHl7QUqWr2qJ50rtobQF5CKDOnjrp6Q9n2EV8ZeDYpmwEOVBJDAD_p5nD0b-E57qb8zCsS8SYEeNlXIiPieUENqZrlnUB2uYmh0CdV1GNUIQUyanQmaHF0_M7l7aTQsrTeDA0zuw6xEfgo9v5oi-Yg8HiLRLVr4.QbcJf1hQQMxYDgyZCyguiHjvr6HFHP4uTm706M9iAN4&dib_tag=se&keywords=QN90F&qid=1748320038&sr=8-1&th=1"
     }
   }
 }
