@@ -1,4 +1,94 @@
 {
+  "Samsung 65\u201d OLED 4K Tizen Smart TV S90D - QN65S90DAFXZC": {
+    "productInfo": {
+      "name": "Samsung 65\u201d OLED 4K Tizen Smart TV S90D - QN65S90DAFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Samsung": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": null,
+      "price": null,
+      "url": null
+    }
+  },
+  "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q80DAFXZC": {
+    "productInfo": {
+      "name": "Samsung 75\u201d 4K Tizen Smart QLED TV - QN75Q80DAFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Samsung": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": null,
+      "price": null,
+      "url": null
+    }
+  },
+  "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC": {
+    "productInfo": {
+      "name": "Samsung 65\u201d 4K Tizen Smart QLED TV - QN65Q80DAFXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Samsung": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": null,
+      "price": null,
+      "url": null
+    }
+  },
+  "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC": {
+    "productInfo": {
+      "name": "Samsung 65\u201d 4K Tizen Smart CUHD TV - UN65DU7100FXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Samsung": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": null,
+      "price": null,
+      "url": null
+    }
+  },
+  "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC": {
+    "productInfo": {
+      "name": "Samsung 75\u201d 4K Tizen Smart CUHD TV - UN75DU8000FXZC",
+      "price": "",
+      "url": ""
+    },
+    "results": {
+      "Samsung": {
+        "found": false,
+        "result": {}
+      }
+    },
+    "best_price": {
+      "retailer": null,
+      "price": null,
+      "url": null
+    }
+  },
   "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC": {
     "productInfo": {
       "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
@@ -6,20 +96,20 @@
       "url": ""
     },
     "results": {
-      "Costco": {
+      "Samsung": {
         "found": true,
         "result": {
           "name": "Samsung 75\" Class - QN90F Series 4K UHD NEO QLED Mini LED TV - QN75QN90FAFXZC",
-          "price": 3998.0,
-          "url": "https://www.costco.ca/samsung-75-class---qn90f-series-4k-uhd-neo-qled-mini-led-tv.product.4000367346.html",
+          "price": 3999.99,
+          "url": "https://www.samsung.com/ca/tvs/qled-tv/qn90f-75-inch-neo-qled-4k-vision-ai-smart-tv-qn75qn90fafxzc/",
           "price_validity": ""
         }
       }
     },
     "best_price": {
-      "retailer": "Costco",
-      "price": 3998.0,
-      "url": "https://www.costco.ca/samsung-75-class---qn90f-series-4k-uhd-neo-qled-mini-led-tv.product.4000367346.html"
+      "retailer": "Samsung",
+      "price": 3999.99,
+      "url": "https://www.samsung.com/ca/tvs/qled-tv/qn90f-75-inch-neo-qled-4k-vision-ai-smart-tv-qn75qn90fafxzc/"
     }
   }
 }
