@@ -21,17 +21,17 @@ from scrappers.vision import VisionsScraper
 from testdata import test_data  # The test data is a list of dicts with only 'name'
 
 SCRAPERS = {
-    "Amazon": AmazonScraper,
-    "Best_Buy": BestBuyScraper,
+    # "Amazon": AmazonScraper,
+    # "Best_Buy": BestBuyScraper,
     "Costco": CostcoScraper,
-    "Dufresne": DufresneScraper,
-    "LG": LGScraper,
-    "LondonDrugs": LondonDrugsScraper,
-    "Terpermans": TeppermansScraper,
-    "Tanguay": TanguayScraper,
-    "Staples": StaplesScraper,
-    "Samsung": SamsungScraper,
-    "Vision": VisionsScraper,
+    # "Dufresne": DufresneScraper,
+    # "LG": LGScraper,
+    # "LondonDrugs": LondonDrugsScraper,
+    # "Terpermans": TeppermansScraper,
+    # "Tanguay": TanguayScraper,
+    # "Staples": StaplesScraper,
+    # "Samsung": SamsungScraper,
+    # "Vision": VisionsScraper,
 }
 
 
@@ -116,24 +116,24 @@ async def main():
         json.dump(results, f, indent=2)
     print(f"✅ JSON results exported to: {json_output_path}")
 
-    # Save to CSV
-    csv_output_path = "price_comparison_output.csv"
-    with open(csv_output_path, mode="w", newline="") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["Product", "Retailer", "Price", "URL", "Best Price"])
-        for product, info in results.items():
-            best_retailer = info["best_price"]["retailer"] if info.get("best_price") else None
-            for retailer, r_data in info["results"].items():
-                if r_data["found"]:
-                    is_best = "✅" if retailer == best_retailer else ""
-                    writer.writerow([
-                        product,
-                        retailer,
-                        r_data["result"]["price"],
-                        r_data["result"]["url"],
-                        is_best
-                    ])
-    print(f"✅ CSV results exported to: {csv_output_path}")
+    # # Save to CSV
+    # csv_output_path = "price_comparison_output.csv"
+    # with open(csv_output_path, mode="w", newline="") as csvfile:
+    #     writer = csv.writer(csvfile)
+    #     writer.writerow(["Product", "Retailer", "Price", "URL", "Best Price"])
+    #     for product, info in results.items():
+    #         best_retailer = info["best_price"]["retailer"] if info.get("best_price") else None
+    #         for retailer, r_data in info["results"].items():
+    #             if r_data["found"]:
+    #                 is_best = "✅" if retailer == best_retailer else ""
+    #                 writer.writerow([
+    #                     product,
+    #                     retailer,
+    #                     r_data["result"]["price"],
+    #                     r_data["result"]["url"],
+    #                     is_best
+    #                 ])
+    # print(f"✅ CSV results exported to: {csv_output_path}")
 
 
 if __name__ == "__main__":
